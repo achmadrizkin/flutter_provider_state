@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false, // untuk menghilangkan debug
-      title: "QuizStar",
+      title: "provide state app",
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
