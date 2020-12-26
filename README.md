@@ -1,4 +1,4 @@
-# Provider State Management
+# Switch Animation
 this is a responsive app
 
 ## Here Are A Few Screenshots From The App
